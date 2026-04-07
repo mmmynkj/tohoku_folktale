@@ -1,0 +1,1 @@
+/home/takamichi-lab-pc19/espnet/egs2/TEMPLATE/tts1/path.sh
